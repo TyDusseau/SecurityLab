@@ -13,6 +13,6 @@ The Security Lab project aimed to establish a controlled environment for simulat
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
-- 
+- OSINT tools such as IP address lookup to generate real-time threat mapping.
 
 ## Steps
