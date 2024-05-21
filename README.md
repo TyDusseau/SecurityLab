@@ -1,6 +1,6 @@
 # Implementing a SOC and Honeynet in Azure
 
-In the security lab project, my aim was to establish a controlled environment for simulating and detecting cyber attacks. My primary focus was on ingesting and analyzing logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. By utilizing OSINT, I created threat maps to help identify geographical attack locations, which could be further leveraged to enhance security posture. This hands-on experience was crafted to deepen my understanding of network security, attack patterns, and defensive strategies.
+In this security lab project, my aim was to establish a controlled environment for simulating and detecting cyber attacks. My primary focus was on ingesting and analyzing logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. By utilizing OSINT, I created threat maps to help identify geographical attack locations, which could be further leveraged to enhance security posture. This hands-on experience was crafted to deepen my understanding of network security, attack patterns, and defensive strategies.
 ### Skills Learned
 
 - Advanced understanding of SIEM concepts and practical application.
