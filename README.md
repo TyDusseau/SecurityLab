@@ -10,8 +10,8 @@ In this security lab project, my aim was to establish a controlled environment f
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- Security Information and Event Management (SIEM) System: Centralized platform for ingesting, correlating, and analyzing security event data from various sources.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
-- OSINT tools such as IP address lookup to generate real-time threat mapping.
+- Open Source Intelligence (OSINT) Tools: Used for gathering and analyzing publicly available data such as IP address source location to identify potential threats and vulnerabilities.
 
 ## Steps
